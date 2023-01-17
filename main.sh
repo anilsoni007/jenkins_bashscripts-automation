@@ -1,3 +1,7 @@
+# Maintainer: Anil Soni
+# This is menu based shell script for jenkins
+
+#!/bin/bash
 echo "1) display jobs"
 echo "2) build jobs"
 echo "3) delete jobs"
